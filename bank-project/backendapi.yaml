@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: bank-backend-deployment
+  name: bank-backend-deplyment
 spec:
   replicas: 1
   selector:
